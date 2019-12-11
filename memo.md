@@ -7,6 +7,8 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
 Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions. 
 
 
+!John Grubber](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/John_Gruber_2008_by_George_Del_Barrio.tif/lossless-page1-200px-John_Gruber_2008_by_George_Del_Barrio.tif.png)
+
 --------------------
 
 ## History
@@ -54,5 +56,3 @@ It adds the following features to Markdown:
 * definition lists
 * footnotes
 * abbreviations
-
-*source : ![Wikipédia](https://en.wikipedia.org/wiki/Markdown)*
