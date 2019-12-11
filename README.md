@@ -1,7 +1,7 @@
 # exercice_markdown
 
 ## Les créateurs du projet: 
-<span style="color:blue"> Marco</span> Yassine, Corentin & Angélique sont les divins créateurs du Projet exercice.
+<span style="color:red"> Marco</span> Yassine, Corentin & Angélique sont les divins créateurs du Projet exercice.
 
 ## Kézako ? 
 color:red C'est un exercice merveilleux. 
