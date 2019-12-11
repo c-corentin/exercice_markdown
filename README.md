@@ -1,6 +1,6 @@
 # Bienvenue 
 
-![iut](https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif)
+![Welcome aboard](https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif)
 
 Cet exercice a pour but de nous apprendre à maîtriser le Markdown, alors ne trainons pas!
 
