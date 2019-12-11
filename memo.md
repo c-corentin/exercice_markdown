@@ -1,4 +1,5 @@
-[READ ME](/README.md)
+* [READ ME](/README.md)
+* [Inventaire syntaxe](/syntaxe.md)
 
 1. [Markdown](#Markdown)
 1. [History](#History)
