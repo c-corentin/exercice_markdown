@@ -1,7 +1,9 @@
 # exercice_markdown
 
 ## Les créateurs du projet: 
-<html > <span style="color:red"> Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> </html>
+<span style="color:red"> Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> 
+
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 ## Kézako ? 
 color:red C'est un exercice merveilleux. 
