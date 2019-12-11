@@ -21,6 +21,6 @@ http://www.google.com
 	- 3 list
 	- 4 list
 
-<script type="text/javascript">
+``` <script type="text/javascript">
     alert("Hello!");
-</script>
+</script> ```
