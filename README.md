@@ -1,13 +1,13 @@
 # exercice_markdown
 
 ## Les créateurs du projet: 
-color:#aaccdd Marco, Yassine, Corentin & Angélique sont les divins créateurs du Projet exercice. 
+color: #73294E Marco, Yassine, Corentin & Angélique sont les divins créateurs du Projet exercice. 
 
 ## Kézako ? 
-color:#aaccdd C'est un exercice merveilleux. 
+color: #73294E C'est un exercice merveilleux. 
 
 ## Quand avons-nous bossé dessus ? 
-color:#aaccdd Aujourd'hui, pardi ! 
+color: #73294E Aujourd'hui, pardi ! 
 
 1. Un
 2. Deux
@@ -16,6 +16,6 @@ color:#aaccdd Aujourd'hui, pardi !
 
 ![iut](/drole.gif)
 
-![iut](/pingouin.png)
+![iut](/pinguouin.png)
 
 [Lien Corentin](/corentin.md)
