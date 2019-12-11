@@ -23,4 +23,4 @@ http://www.google.com
 
 ``` <script type="text/javascript">
     alert("Hello!");
-</script> ```
+</script>
