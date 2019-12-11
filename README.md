@@ -26,8 +26,10 @@ Pour apprendre, il faut bien évidemment réaliser des exercices et manipuler la
     1. une image animée
     1. un bout de code, avec coloration syntaxique
 
-## Les créateurs du projet 
-Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> 
+
+## Langages utilisés
+
+Vous l'aurez deviné, ici c'est presque uniquement pour l'utilisation du `Markdown`, mais --par esprit de contradiction-- nous utilisons aussi un petit bout de code de `PHP` juste ici :
 
 ``` php
 <?php
@@ -35,6 +37,10 @@ $var = 12;
 echo 'Var='.$var;
 ?>
 ```
+
+
+## Les créateurs du projet 
+Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> 
 
 
 ## Kézako ? 
