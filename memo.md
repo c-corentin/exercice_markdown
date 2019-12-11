@@ -52,3 +52,5 @@ It adds the following features to Markdown:
 * definition lists
 * footnotes
 * abbreviations
+
+*source : ![Wikipédia](https://en.wikipedia.org/wiki/Markdown)*
