@@ -12,7 +12,7 @@ echo 'Var='.$var;
 
 
 ## Kézako ? 
-C'est un exercice merveilleux. 
+C'est un exercice merveilleux sur le 'code'.
 
 ## Quand avons-nous bossé dessus ? 
 Aujourd'hui, pardi ! 
