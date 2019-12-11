@@ -51,9 +51,9 @@ Notre projet s'étend sur différentes contrées où le soleil ne se lève qu'un
 
 
 # Table des matières 
-[Bienvenue](#Bienvenue)
-[Définition Markdown](#Définition-Markdown)
-[Consignes de l'exercice](#Consignes-de-l'exercice)
-[Langages utilisés](#Langages-utilisés)
-[Les créateurs du projet](#Les-créateurs-du-projet)
-[Descriptif du projet](#Descriptif-du-projet)
+* [Bienvenue](#Bienvenue)
+* [Définition Markdown](#Définition-Markdown)
+* [Consignes de l'exercice](#Consignes-de-l'exercice)
+* [Langages utilisés](#Langages-utilisés)
+* [Les créateurs du projet](#Les-créateurs-du-projet)
+* [Descriptif du projet](#Descriptif-du-projet)
