@@ -29,7 +29,7 @@ Pour apprendre, il faut bien évidemment réaliser des exercices et manipuler la
 
 ## Langages utilisés
 
-Vous l'aurez deviné, ici c'est presque uniquement pour l'utilisation du `Markdown`, mais --par esprit de contradiction-- nous utilisons aussi un petit bout de code de `PHP` juste ici :
+Vous l'aurez deviné, ici c'est presque uniquement pour l'utilisation du `Markdown`, mais ~~par esprit de contradiction~~ nous utilisons aussi un petit bout de code de `PHP` juste ici :
 
 ``` php
 <?php
