@@ -4,7 +4,7 @@
 1. [History](#History)
 1. [Standardization](#Standardization) 
 1. [CommonMark](#CommonMark)
-1. [GitHub Flavored Markdown (GFM)](#GitHub-Flavored-Markdown-(GFM))
+1. [GitHub Flavored Markdown (GFM)](#GitHub-Flavored-Markdown)
 1. [Markdown Extra](#Markdown-Extra)
 
 # Markdown
@@ -45,7 +45,7 @@ In March 2016 RFC 7763 and RFC 7764 were published. RFC 7763 introduced MIME typ
 From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations". In September 2014, Gruber objected to the usage of "Markdown" in the name of this effort and it was rebranded as a new dialect named CommonMark. CommonMark.org published several versions of a specification, reference implementation, and test suite, and "[plans] to announce a finalized 1.0 spec and test suite in 2019."
 
 
-### GitHub Flavored Markdown (GFM)
+### GitHub Flavored Markdown
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character. 
 
