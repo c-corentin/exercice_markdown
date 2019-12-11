@@ -1,3 +1,12 @@
+[READ ME](/README.md)
+
+1. [Markdown](#Markdown)
+1. [History](#History)
+1. [Standardization](#Standardization) 
+1. [CommonMark](#CommonMark)
+1. [GitHub Flavored Markdown (GFM)](#GitHub-Flavored-Markdown-(GFM))
+1. [Markdown Extra](#Markdown-Extra)
+
 # Markdown
 
 Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

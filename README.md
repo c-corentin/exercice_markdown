@@ -1,5 +1,8 @@
 # exercice_markdown
 
+[Définition MarkDown](/memo.md)
+
+
 ## Les créateurs du projet: 
 Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> 
 
@@ -26,4 +29,3 @@ Aujourd'hui, pardi !
 
 ![iut](/pinguouin.png)
 
-[Lien Corentin](/corentin.md)
