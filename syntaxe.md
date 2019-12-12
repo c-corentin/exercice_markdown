@@ -3,6 +3,18 @@
 * [Définition MarkDown](/memo.md)
 * [READ ME](/README.md)
 
+# Sommaire
+
+* [Titres](#Titres)
+* [Emphase](#Emphase)
+* [Listes](#Listes)
+* [Images](#Images)
+* [Citations](#Citations)
+* [Inline](#Inline)
+* [Mettre de la syntaxe en évidence](#Mettre-de-la-syntaxe-en-évidence)
+* [Listes de tâches](#Listes-de-tâches)
+* [Tableaux](#Tableaux)
+* [Liens](#Liens)
 
 ## Titres
 
@@ -151,7 +163,7 @@ Ce qui donne
 - [x] @mentions, #refs, [links] (), **formatage** et <del> tags </del> pris en charge
 - [x] Syntaxe de liste [x] requise (toute liste non ordonnée ou ordonnée prise en charge)
 - [x] c'est un élément complet
-- [] ceci est un élément incomplet
+- [ ] ceci est un élément incomplet
 
 ## Tableaux
 
