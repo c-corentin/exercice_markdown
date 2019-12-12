@@ -9,7 +9,8 @@ Cet exercice a pour but de nous apprendre à maîtriser le Markdown, alors ne tr
 
 Tout d'abord et avant de continuer, je vous propose de vous plonger dans la définition et l'histoire du Markdown que nous propose Wikipédia.
 
-[Définition MarkDown](/memo.md)
+* [Définition MarkDown](/memo.md)
+* [Inventaire syntaxe](/syntaxe.md)
 
 ## Consignes de l'exercice
 
