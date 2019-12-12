@@ -1,4 +1,4 @@
-**I'M PICKLE RICK **
+**I'M PICKLE RICK**
 
 # test titre
 
