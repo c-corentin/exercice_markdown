@@ -41,8 +41,19 @@ echo 'Var='.$var;
 
 
 ## Les créateurs du projet 
-Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice.</span> 
+Marco, Yassine,Corentin & Angélique sont les divins créateurs du Projet exercice. 
 
 
-## Kézako ? 
-C'est un exercice merveilleux sur le`code`.
+## Descriptif du projet
+Notre projet s'étend sur différentes contrées où le soleil ne se lève qu'une fois tous les 26 jours. En effet, si nous regardons de plus près la sémantique du mot "Markdown", nous pouvons aisément constater la deuxième partie du mot, à savoir "Down", signifie bas et nous donne une idée du couchée , et comme les developpeur ne voient jamais la lumiere du jour nous nous somme senti concernée directement par la semantique . 
+
+
+
+
+# Table des matières 
+* [Bienvenue](#Bienvenue)
+* [Définition Markdown](#Définition-Markdown)
+* [Consignes de l'exercice](#Consignes-de-l'exercice)
+* [Langages utilisés](#Langages-utilisés)
+* [Les créateurs du projet](#Les-créateurs-du-projet)
+* [Descriptif du projet](#Descriptif-du-projet)
